@@ -1,2 +1,4 @@
-﻿  MultiplyByTwo.cpp
-  MultiplyByTwo.vcxproj -> C:\Users\andre\Development\c++\LearningC\MultiplyByTwo\x64\Debug\MultiplyByTwo.exe
+﻿  Add.cpp
+  MultiplyByTwo.cpp
+C:\Users\andre\Development\c++\LearningC\MultiplyByTwo\MultiplyByTwo\MultiplyByTwo.cpp(17,17): error C3861: "add": Bezeichner wurde nicht gefunden.
+  Code wird generiert...
